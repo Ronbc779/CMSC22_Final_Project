@@ -1,9 +1,11 @@
 # CMSC22_Final_Project
 
 ## Description
-This project is a fully text-based role-playing game set in a post-apocalyptic world dominated by mutant ants. Built for players who enjoy strategic storytelling and interactive fiction, the game pairs a text-driven narrative with a graphical user interface created using the Tkinter module. Multiple branching storylines allow players to explore different paths, consequences, and character arcs, ensuring a highly replayable experience.
-At its core, the game features a turn-based combat system supported by detailed mechanics and stat-driven encounters. Combat outcomes rely on key attributes such as speed, defense, and strength, all calculated with the assistance of the math module to ensure consistent and transparent game logic. Character classes, each with their own strengths and playstyles, further deepen the tactical decision-making required in both combat and exploration.
-Supporting systems such as an inventory manager, choice-based progression, and modular extensions allow players to customize their experience and developers to expand content easily. The design prioritizes clarity, accessibility, and adaptability, making the project suitable for both standalone play and future development as a modular text-based RPG framework.
+This program combines different aspects of object-oriented programming (OOP) into a flower shop game where users cultivate their business by raising a variety of flowers, selling them to different customers, and getting upgrades along the way. It addresses the need for a course-sized application that applies OOP concepts to a system of many interacting objects, while giving players a relaxed way to practice managing time and resources
+
+Specifically, this game integrates in-game time, objects, and classes to implement the key features of simulating individual plant growth and unique customer needs and queues through the user interface. Each plant type is defined by attributes like seed cost, growth time, and selling price. This is paired with customers who request different flower types and amounts, and possess their own patience timers.
+
+Displayed using the graphical user interface toolkit Java Swing, OOP concepts are finally combined into user interfaces to allow users to strategize, customize, and interact with the program. This ultimately serves to make Dah-li-a Na a visually appealing, random, and replayable experience for users that practices and rewards their ability to manage resources.
 
 ## Features
 | Feature	| Description |
