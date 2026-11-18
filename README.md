@@ -1,4 +1,22 @@
-# CMSC22_Final_Project
+<div align="center">
+  
+# 🌸 Dah-li-a Na: Flower-raising Simulator 🌸 
+### CMSC 22 Final Project Proposal
+#### Group Name: (P. et al., 2026)
+
+</div>
+
+## Members
+
+| # | Name |
+|---|---|
+| 1 | Ronhitz B. Cabungcag |
+| 2 | Matthew Kyle R. Gan |
+| 3 | Carl Symon Lacurom |
+| 4 | Leila Kerstine S. Masmela |
+| 5 | Dodi Sambo |
+
+---
 
 ## Description
 This program combines different aspects of object-oriented programming (OOP) into a flower shop game where users cultivate their business by raising a variety of flowers, selling them to different customers, and getting upgrades along the way. It addresses the need for a course-sized application that applies OOP concepts to a system of many interacting objects, while giving players a relaxed way to practice managing time and resources
